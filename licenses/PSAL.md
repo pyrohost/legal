@@ -41,7 +41,7 @@ This License constitutes the entire agreement between the parties concerning the
 
 ## 8. Modifications
 
-Pyro reserves the right to modify this License at any time. Modifications to this License will be effective immediately upon posting. Your continued use of the Software after any modifications to this License will constitute Your acceptance of such modifications.
+Pyro reserves the right to modify this License at any time. Modifications to this License will be effective immediately upon posting and will apply retroactively to all Software, unless otherwise stated. Your continued use of the Software after any modifications to this License will constitute Your acceptance of such modifications.
 
 ## 9. Acceptance
 
