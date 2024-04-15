@@ -7,7 +7,7 @@ This Software License Agreement (this "**License**") is a legal contract between
 1. **Software** means all copies of the original or modified software, and all derivative software licensed under this License.
 2. **You** or **Your** means the individual or entity that exercises the rights granted under this License.
 3. **Personal Use** means use of the Software for internal purposes only, such as for learning, hobbies, or personal projects excluding any use that could directly or indirectly support a commercial enterprise.
-4. **Commercial Use** means using the Software to create products or services intended for sale, distribution for profit, or to gain a competitive advantage.
+4. **Commercial Use** means using the Software to create products or services intended for sale, distribution for profit, to gain a competitive advantage, or for usage in a production environment.
 
 ## 2. Grant of Rights
 
