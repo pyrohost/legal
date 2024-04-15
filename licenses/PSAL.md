@@ -1,6 +1,6 @@
 # Pyro Source Available License
 
-This Software License Agreement (this "**License**") is a legal contract between You and Pyro Inc. ("**Pyro**").
+This Software License Agreement (this "**License**") is a legal contract between You and Pyro Host Inc. ("**Pyro**").
 
 ## 1. Definitions
 
