@@ -1,5 +1,7 @@
 # Pyro Source Available License
 
+License text copyright (c) 2024 Pyro Host Inc. All Rights Reserved.
+
 This Software License Agreement (this "**License**") is a legal contract between You and Pyro Host Inc. ("**Pyro**").
 
 ## 1. Definitions
