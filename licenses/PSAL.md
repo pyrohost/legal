@@ -48,3 +48,7 @@ Pyro reserves the right to modify this License at any time. Modifications to thi
 ## 9. Acceptance
 
 By using the Software, You acknowledge that You have read, understood, and agree to be bound by the terms of this License. If You do not agree to the terms of this License, You are prohibited from using the Software.
+
+## 10. Miscellaneous
+
+If any provision of this Agreement is held by a court of law to be illegal, invalid, or unenforceable, the legality, validity, and enforceability of the remaining provisions of this Agreement will not be affected or impaired thereby and the illegal, invalid, or unenforceable provision will be deemed modified such that it is legal, valid, and enforceable and accomplishes the intention of Pyro to the fullest extent possible. Failure, neglect or delay by Pyro to enforce the provisions of this Agreement or its rights or remedies at any time, will not be construed or be deemed to be a waiver of Pyro's rights under this Agreement and will not in any way affect the validity of the whole or any part of this Agreement or prejudice such Pyro's right to take subsequent action.
